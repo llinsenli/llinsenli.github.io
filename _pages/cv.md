@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Tulane University, 2026 (expected)
+* M.S. in Data Science, Stevens Institute of Technology, 2021
+* B.S. in Statistics, Southern University of Science and Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2022 - Present: Research Assistant
+  * CS Department in Tulane University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Advisor: Aron Culotta, Nicholas Mattei
+
+* Spring 2022: Teaching Assistant
+  * CMPS 3140/6140 Intro to Artificial Intelligence
+  * Duties included: hold weekly office hours; grade programming assignments
+  * Supervisor: Prof. Aron Culotta
+
+* Fall 2021: Teaching Assistant
+  * CMPS 3240/6240 Introduction to Machine Learning
+  * Duties included: hold weekly office hours; grade homework
+  * Supervisor: Prof. Jihun Hamm
+
+* Fall 2021: Teaching Assistant
+  * CMPS 3160/6160 Intro. to Data Science
+  * Duties included: hold weekly office hours; grade programming assignments
+  * Supervisor: Prof. Nicholas Mattei
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Pytorch, HuggingFace, PostgreSQL
 
 Publications
 ======
