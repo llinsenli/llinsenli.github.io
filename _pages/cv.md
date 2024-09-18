@@ -19,22 +19,18 @@ Work experience
 ======
 * Fall 2022 - Present: Research Assistant
   * CS Department in Tulane University
-  * Duties included: Tagging issues
   * Advisor: Aron Culotta, Nicholas Mattei
 
 * Spring 2022: Teaching Assistant
   * CMPS 3140/6140 Intro to Artificial Intelligence
-  * Duties included: hold weekly office hours; grade programming assignments
   * Supervisor: Prof. Aron Culotta
 
 * Fall 2021: Teaching Assistant
   * CMPS 3240/6240 Introduction to Machine Learning
-  * Duties included: hold weekly office hours; grade homework
   * Supervisor: Prof. Jihun Hamm
 
 * Fall 2021: Teaching Assistant
   * CMPS 3160/6160 Intro. to Data Science
-  * Duties included: hold weekly office hours; grade programming assignments
   * Supervisor: Prof. Nicholas Mattei
 
 Skills
