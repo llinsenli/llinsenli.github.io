@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science with a fervent passion for textual data research. My current academic endeavors center on causal inference with textual data, specifically focusing on estimating treatment effects using text. Additionally, I am profoundly interested in Large Language Models (LLMs) and their applications, exploring how these advanced models can transform data interpretation and decision-making processes in computational linguistics and beyond.
+I am a PhD student in Computer Science who is passionate about textual data research. My current academic endeavors center on causal inference with textual data, specifically focusing on estimating treatment effects using text. Additionally, I am profoundly interested in Large Language Models (LLMs) and their applications, exploring how these advanced models can transform data interpretation and decision-making processes in computational linguistics and beyond.
 
 A data-driven personal website
 ======
