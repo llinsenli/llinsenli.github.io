@@ -19,7 +19,7 @@ Work experience
 ======
 * Fall 2022 - Present: Research Assistant
   * CS Department in Tulane University
-  * Advisor: Aron Culotta, Nicholas Mattei
+  * Advisor: Prof. Aron Culotta, Prof. Nicholas Mattei
 
 * Spring 2022: Teaching Assistant
   * CMPS 3140/6140 Intro to Artificial Intelligence
