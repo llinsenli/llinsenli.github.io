@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-04-29-using-text-based-causal-inference
 excerpt: 'This paper examines the causal impact of different aspects mentioned in online reviews of U.S. K-12 schools on overall ratings using an enhanced CausalBERT framework to improve treatment effect estimation and interpretability.'
 date: 2025-04-29
-venue: 'Proceedings of the HLT/NAACL 2025'
+venue: 'Proceedings of the HLT/NAACL'
 paperurl: 'https://aclanthology.org/2025.naacl-long.562/'
 citation: 'Linsen Li, Aron Culotta, and Nicholas Mattei. 2025. Using Text-Based Causal Inference to Disentangle Factors Influencing Online Review Ratings. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 11259–11277, Albuquerque, New Mexico. Association for Computational Linguistics.'
 ---
